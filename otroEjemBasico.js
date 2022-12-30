@@ -7,5 +7,7 @@ var2 = 25;
 var3 = 45;
 
 
-oper = var1 + var3 - var2;
+oper1 = var1 + var3 - var2;
+oper2 = var1 + var1 + var2;
+
 
